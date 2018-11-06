@@ -1,0 +1,15 @@
+[submodule "src/robot/mymodule"]
+	path = src/robot/mymodule
+	url = git@github.com:ros-industrial/ur_modern_driver.git
+[submodule "src/robot/universal_robot"]
+	path = src/robot/universal_robot
+	url = git@github.com:ros-industrial/universal_robot.git
+[submodule "src/robot/ur_modern_driver"]
+	path = src/robot/ur_modern_driver
+	url = git@github.com:ros-industrial/ur_modern_driver.git
+[submodule "src/robot/industrial_core"]
+	path = src/robot/industrial_core
+	url = git@github.com:ros-industrial/industrial_core.git
+[submodule "src/camera/tiscamera"]
+	path = src/camera/tiscamera
+	url = git@github.com:TheImagingSource/tiscamera.git

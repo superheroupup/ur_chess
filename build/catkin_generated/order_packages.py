@@ -2,4 +2,4 @@
 source_root_dir = "/home/efun/ur_chess/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/home/efun/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/efun/catkin_ws/devel;/opt/ros/kinetic" != "" else []
+underlay_workspaces = "/home/efun/ur_chess/devel;/home/efun/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/efun/ur_chess/devel;/home/efun/catkin_ws/devel;/opt/ros/kinetic" != "" else []

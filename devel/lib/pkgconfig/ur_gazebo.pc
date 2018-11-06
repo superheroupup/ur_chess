@@ -1,0 +1,8 @@
+prefix=/home/efun/ur_chess/devel
+
+Name: ur_gazebo
+Description: Description of ur_gazebo
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/efun/ur_chess/devel/lib 
+Requires: 

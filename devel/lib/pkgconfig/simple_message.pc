@@ -1,0 +1,8 @@
+prefix=/home/efun/ur_chess/devel
+
+Name: simple_message
+Description: Description of simple_message
+Version: 0.5.1
+Cflags: -I/home/efun/ur_chess/src/robot/industrial_core/simple_message/include
+Libs: -L/home/efun/ur_chess/devel/lib -lsimple_message_dummy
+Requires: roscpp industrial_msgs

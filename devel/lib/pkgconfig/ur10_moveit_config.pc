@@ -1,0 +1,8 @@
+prefix=/home/efun/ur_chess/devel
+
+Name: ur10_moveit_config
+Description: Description of ur10_moveit_config
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/efun/ur_chess/devel/lib 
+Requires: 

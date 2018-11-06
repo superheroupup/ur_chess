@@ -1,0 +1,8 @@
+prefix=/home/efun/ur_chess/devel
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.1
+Cflags: -I/home/efun/ur_chess/devel/include
+Libs: -L/home/efun/ur_chess/devel/lib 
+Requires: dynamic_reconfigure
