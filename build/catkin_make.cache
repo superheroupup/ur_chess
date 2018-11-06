@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/efun/ur_chess/devel -DCMAKE_INSTALL_PREFIX=/home/efun/ur_chess/install -G Unix Makefiles

@@ -1,0 +1,12 @@
+/home/efun/ur_chess/build/CMakeFiles/install.dir
+/home/efun/ur_chess/build/CMakeFiles/clean_test_results.dir
+/home/efun/ur_chess/build/CMakeFiles/run_tests.dir
+/home/efun/ur_chess/build/CMakeFiles/download_extra_data.dir
+/home/efun/ur_chess/build/CMakeFiles/tests.dir
+/home/efun/ur_chess/build/CMakeFiles/edit_cache.dir
+/home/efun/ur_chess/build/CMakeFiles/doxygen.dir
+/home/efun/ur_chess/build/CMakeFiles/rebuild_cache.dir
+/home/efun/ur_chess/build/CMakeFiles/list_install_components.dir
+/home/efun/ur_chess/build/CMakeFiles/install/strip.dir
+/home/efun/ur_chess/build/CMakeFiles/install/local.dir
+/home/efun/ur_chess/build/CMakeFiles/test.dir
